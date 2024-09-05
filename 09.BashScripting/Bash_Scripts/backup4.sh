@@ -11,3 +11,6 @@ then
 else
   echo "Invalid input detected, please try again."
 fi
+
+#new lin adding for script
+
